@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on watal&#39;s github.io</title>
-    <link>http://watal.github.io/post/</link>
-    <description>Recent content in Posts on watal&#39;s github.io</description>
+    <title>Sr Mpls on watal&#39;s github.io</title>
+    <link>http://watal.github.io/tags/sr-mpls/</link>
+    <description>Recent content in Sr Mpls on watal&#39;s github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 16 Oct 2018 15:57:19 +0900</lastBuildDate>
     
-	<atom:link href="http://watal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://watal.github.io/tags/sr-mpls/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,18 +23,6 @@
 &lt;p&gt;&lt;a href=&#34;https://qiita.com/watal/items/754f120f6066c2bb0064&#34; title=&#34;FRRoutingでSR MPLSを動かす&#34;&gt;設定手順はこちら&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>はじめに</title>
-      <link>http://watal.github.io/blog/2018/10/first_content/</link>
-      <pubDate>Mon, 15 Oct 2018 20:39:28 +0900</pubDate>
-      
-      <guid>http://watal.github.io/blog/2018/10/first_content/</guid>
-      <description> 修士研究の備忘録や技術メモ・作成物の解説などを残していきます．
-本ブログはHugoで生成し，GitHub Pagesで公開しています．
-参考にしたサイトと使用テーマは以下の通り．
-参考にしたサイト  HUGOでブログ作成 → GitHub Pagesで公開する手順 [Hugo] GitHub Pagesでブログを公開する  テーマ  Hugo Octopress  GitHubリポジトリ   </description>
     </item>
     
   </channel>

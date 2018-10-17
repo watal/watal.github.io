@@ -10,5 +10,23 @@
 	<atom:link href="http://watal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>技術メモ</title>
+      <link>http://watal.github.io/categories/%E6%8A%80%E8%A1%93%E3%83%A1%E3%83%A2/</link>
+      <pubDate>Tue, 16 Oct 2018 15:57:19 +0900</pubDate>
+      
+      <guid>http://watal.github.io/categories/%E6%8A%80%E8%A1%93%E3%83%A1%E3%83%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>研究</title>
+      <link>http://watal.github.io/categories/%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Tue, 16 Oct 2018 15:57:19 +0900</pubDate>
+      
+      <guid>http://watal.github.io/categories/%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
