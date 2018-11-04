@@ -3,62 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://watal.github.io/blog/2018/10/frr_sr_mpls/</loc>
+    <loc>https://watal.github.io/blog/2018/10/frr_sr_mpls/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://watal.github.io/blog/2018/10/first_content/</loc>
+    <loc>https://watal.github.io/blog/2018/10/first_content/</loc>
     <lastmod>2018-10-15T20:39:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://watal.github.io/categories/</loc>
+    <loc>https://watal.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://watal.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/license/</loc>
+    <loc>https://watal.github.io/license/</loc>
   </url>
   
   <url>
-    <loc>http://watal.github.io/post/</loc>
+    <loc>https://watal.github.io/post/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/tags/segment-routing/</loc>
+    <loc>https://watal.github.io/tags/segment-routing/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/tags/sr-mpls/</loc>
+    <loc>https://watal.github.io/tags/sr-mpls/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/tags/</loc>
+    <loc>https://watal.github.io/tags/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/</loc>
+    <loc>https://watal.github.io/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/categories/%E6%8A%80%E8%A1%93%E3%83%A1%E3%83%A2/</loc>
+    <loc>https://watal.github.io/categories/%E6%8A%80%E8%A1%93%E3%83%A1%E3%83%A2/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://watal.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
+    <loc>https://watal.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2018-10-16T15:57:19+09:00</lastmod>
     <priority>0</priority>
   </url>
